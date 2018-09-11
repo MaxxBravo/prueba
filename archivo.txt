@@ -1,7 +1,10 @@
-linea 1
+﻿linea 1
 linea 2
-linea 3 borrado logico 
-linea 48 edici�n
+linea 3 borrado logico
+linea 48 edición
 linea 5 first commit
-linea 6 develop create
-linea 777
+linea 6 develop update
+linea 7 cambiada arriba
+linea 8 que bueno que esta!!
+
+linea nueva MERGE dev con test-max
